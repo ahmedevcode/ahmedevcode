@@ -3,17 +3,38 @@ Hi there 👋
 Welcome! I'm passionate about creating outstanding mobile experiences using Flutter. Renowned for my keen eye for detail in both UI and code. I have over a year of experience in front-end and back-end development. I graduated with a Computer Science degree from Minia University, ranking second in my class with honors. I previously worked at Dev-Hoch and now work remotely while searching for a full-time position. My goal is to become a leading Flutter developer and create innovative solutions.
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedevcode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedevcode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
-<img align="right" height="200" src="https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0" />
+<img align="right" height="180" src="https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0" />
 About Me
+
+
 🌱 I’m currently working on Flutter projects
+
+
 💬 Ask me about Mobile Development, Flutter, Firebase, and Clean Architecture
-📫 How to reach me: tharwatahmad90@gmail.com.
+
+
+📫 How to reach me: ahmedthurwat@gmail.com.
+
+
+
+
+
  
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" /> <img width="12" /> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo" /> <img width="12" 
  </div>
 
 
+
+  
+
+
+
+
 Other Skills:
+
+
+
+
 + OOP, SOLID Principles, Design Patterns
 + Data Structures, Algorithms, Problem Solving
 + Clean Architecture, MVVM, CI/CD
