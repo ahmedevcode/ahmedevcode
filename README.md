@@ -2,8 +2,13 @@ Hi there 👋
 <h2 align="left">Hi 👋! My name is Ahmed Tharwat, and I'm a Mobile Developer from Egypt.</h2>
 Welcome! I'm passionate about creating outstanding mobile experiences using Flutter. Renowned for my keen eye for detail in both UI and code. I have over a year of experience in front-end and back-end development. I graduated with a Computer Science degree from Minia University, ranking second in my class with honors. I previously worked at Dev-Hoch and now work remotely while searching for a full-time position. My goal is to become a leading Flutter developer and create innovative solutions.
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedevcode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedevcode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
-<img align="right" height="180" src="https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0" />
+
+<img height="300" width ="300" src="https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0" />
+
+
+
+
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedevcode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedevcode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> </div>
 About Me
 
 
