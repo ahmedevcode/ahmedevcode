@@ -1,5 +1,5 @@
-Hi there 👋
-<h2 align="left">Hi 👋! My name is Ahmed Tharwat, and I'm a Mobile Developer from Egypt.</h2>
+
+<h1 align="left">Hi 👋! My name is Ahmed Tharwat, and I'm a Mobile Developer from Egypt.</h1>
 Welcome! I'm passionate about creating outstanding mobile experiences using Flutter. Renowned for my keen eye for detail in both UI and code. I have over a year of experience in front-end and back-end development. I graduated with a Computer Science degree from Minia University, ranking second in my class with honors. I previously worked at Dev-Hoch and now work remotely while searching for a full-time position. My goal is to become a leading Flutter developer and create innovative solutions.
 
 
