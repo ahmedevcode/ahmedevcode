@@ -3,7 +3,11 @@ Hi there 👋
 Welcome! I'm passionate about creating outstanding mobile experiences using Flutter. Renowned for my keen eye for detail in both UI and code. I have over a year of experience in front-end and back-end development. I graduated with a Computer Science degree from Minia University, ranking second in my class with honors. I previously worked at Dev-Hoch and now work remotely while searching for a full-time position. My goal is to become a leading Flutter developer and create innovative solutions.
 
 
-<img height="300" width ="300" src="https://th.bing.com/th/id/R.a8de4d84fe9097b2bb5fe5fff24bf936?rik=c3AAn3ahjlnm6g&pid=ImgRaw&r=0" />
+<div align="center">
+    <img height="300" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</div>
+
+
 
 
 
