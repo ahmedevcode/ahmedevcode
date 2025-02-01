@@ -4,7 +4,7 @@ Welcome! I'm passionate about creating outstanding mobile experiences using Flut
 
 
 <div align="center">
-    <img height="300" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+    <img height="300" width="-900" src="https://media.tenor.com/I1NARftewZcAAAAd/profile.gif" />
 </div>
 
 
