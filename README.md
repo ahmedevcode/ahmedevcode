@@ -121,13 +121,21 @@ Other Skills:
 [![Google Play Store](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.devhoch.devhoch&pcampaignid=web_share)
 # Bug fixing and analysis.
 + Optimized the app to improve the overall user experience.
+  
 ## Let's Connect!
-<div align="left">
+<div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/ahmed-elsharhawy-30a069180/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="35" alt="LinkedIn logo" />
   </a>
+  <div style="width: 20px;"></div>
   <a href="mailto:your-email@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="35" alt="Gmail logo" />
   </a>
+  <div style="width: 20px;"></div>
+  <a href="https://wa.me/qr/ZVM2BCD5GOD3C1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="35" alt="WhatsApp logo" />
+  </a>
 </div>
+
+
 
