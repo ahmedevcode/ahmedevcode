@@ -5,7 +5,7 @@
 
 **Based in Saudi Arabia · From Egypt**
 
-I build practical, connected solutions that bring **ERP, mobile applications, and real-world operations** together.
+I build practical, connected solutions that bring **ERP, mobile applications, ride-hailing platforms, and real-world operations** together.
 
 [![Email](https://img.shields.io/badge/Email-ahmedthurwat%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedthurwat@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B966555428981-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/966555428981)
@@ -21,7 +21,7 @@ I manage and develop the technology ecosystem at **FUEL Petroleum Services Compa
 
 My current focus is **Odoo ERP implementation, customization, and integrations** across **Accounting, Inventory, HR, Purchasing, and Maintenance**. I also work on connections between Odoo and **Flutter applications, PTS-2 fuel controllers, station automation, payment devices, CCTV, network infrastructure, and digital price displays**.
 
-Before this, I spent **3+ years developing Flutter mobile applications**, working with REST APIs, Firebase, BLoC/Cubit, and cross-platform delivery for Android and iOS.
+I have **3+ years of Flutter mobile development experience**, spanning salon booking, tourism, ride-hailing, and service apps, using REST APIs, Firebase, BLoC/Cubit, and cross-platform delivery for Android and iOS.
 
 I'm currently completing **Odoo Implementation & Consulting training with iValue Academy**, strengthening my skills in requirements gathering, business process analysis, configuration, testing, and ERP rollout.
 
@@ -35,6 +35,23 @@ I'm currently completing **Odoo Implementation & Consulting training with iValue
 - **Flutter:** Cross-platform apps, responsive UI, state management, notifications, and mapping.
 - **Delivery:** Troubleshooting, QA, Git-based collaboration, and Odoo.sh staging/production workflows.
 
+## 💼 Experience Highlights
+
+**Enterprise Technology & Odoo ERP — FUEL Petroleum Services Company (Saudi Arabia)**
+- Manage and develop integrations connecting Odoo ERP with fuel-station operations and customer-facing mobile solutions.
+- Work across accounting, inventory, purchasing, HR, maintenance, and Odoo.sh delivery workflows.
+- Support PTS-2 fuel controller connectivity, fuel transaction synchronization, digital payments, and operational troubleshooting.
+- Coordinate between enterprise software, mobile applications, and physical station infrastructure.
+
+**Flutter & Cross-Platform Mobile Development**
+- 3+ years working on Android and iOS mobile applications, including booking, transport, tourism, and service-management experiences.
+- Build responsive, localized interfaces and integrate mobile applications with REST APIs, Firebase, push notifications, and mapping services.
+- Experience with BLoC/Cubit, application maintenance, performance improvements, and publication workflows.
+
+**Odoo Implementation & Consulting — In Progress**
+- Training with iValue Academy in functional requirements, ERP configuration, business process analysis, and rollout practices.
+- Expanding from hands-on integration and customization into technical consulting and ERP implementation delivery.
+
 ## 🛠 Tech Stack
 
 **ERP & Backend**  
@@ -45,7 +62,7 @@ I'm currently completing **Odoo Implementation & Consulting training with iValue
 
 **Practices:** OOP · SOLID · Clean Architecture · MVVM · BLoC/Cubit · Provider/Riverpod · Localization · CI/CD · Agile
 
-## 🚀 Selected Work
+## 🚀 Selected Work & Published Apps
 
 ### ⛽ FUEL — Customer Mobile App & Digital Ecosystem
 
@@ -70,6 +87,20 @@ Business-side appointment management, booking notifications, customer informatio
 Mobile experience presenting tourism, cultural, administrative, and local information about Rijal Alma Governorate.
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Ayeen_Almaa-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.ayeen.ayeenalmaa) [![App Store](https://img.shields.io/badge/App_Store-Ayeen_Almaa-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/ayeen-alma/id6739967375)
+
+### 🚕 Touri Taxi — Tourism & Ride Booking
+
+Cross-platform ride-booking application for tourism, airport transfers, and local travel. The published application supports ride requests, driver tracking, and multilingual customer experiences. Featured here as part of my mobile application portfolio.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Touri_Taxi-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.mycompany.araoatanapp) [![App Store](https://img.shields.io/badge/App_Store-Touri_Taxi-0D96F6?style=flat-square&logo=appstore)](https://apps.apple.com/us/app/touri-taxi/id6754410562)
+
+### 🚖 Rose Taxi — Ride-Hailing Platform
+
+Ride-hailing application with passenger and driver workflows, trip booking, GPS navigation, live trip information, and driver earnings features. Featured here as part of my mobile application portfolio.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Rose_Taxi-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=app.aljawab.rosecapptian) [![iOS listing](https://img.shields.io/badge/iOS-Third--party_Listing-777777?style=flat-square&logo=apple)](https://iphone.apkpure.com/app/taxi-rose/com.rose.taxi)
+
+> **Note:** The Rose Taxi iOS link above is a third-party APKPure listing, not a verified Apple App Store listing.
 
 ### 🔧 Dev-Hoch — Flutter Maintenance & Optimization
 
