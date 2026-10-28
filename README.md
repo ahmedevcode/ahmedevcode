@@ -37,13 +37,7 @@ I'm currently completing **Odoo Implementation & Consulting training with iValue
 
 **Open to opportunities in Saudi Arabia:** Odoo Technical Consultant · Odoo Developer · ERP Implementation Specialist.
 
-<div align="center">
-  <img
-    src="https://media.tenor.com/I1NARftewZcAAAAd/profile.gif"
-    width="700"
-    alt="Developer Animation"
-  />
-</div>
+
 
 ---
 
